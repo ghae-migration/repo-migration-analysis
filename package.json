@@ -1,0 +1,20 @@
+{
+  "name": "@ghae-migration/repo-migration-analysis",
+  "version": "1.0.0",
+  "description": "repo-migration-analysis test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghae-migration/repo-migration-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghae-migration/repo-migration-analysis/issues"
+  },
+  "homepage": "https://github.com/ghae-migration/repo-migration-analysis#readme"
+}
